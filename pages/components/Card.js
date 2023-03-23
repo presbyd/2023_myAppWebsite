@@ -15,8 +15,8 @@ function Card(props) {
                 </h2>
             </div>
             <div className="bottom">
-                <Detail detailInfo={props.aut} />
-                <Detail detailInfo={props.descr} />
+                <Detail aut_or_descr="Role: " detailInfo={props.aut} />
+                <Detail aut_or_descr="Description: " detailInfo={props.descr} />
             </div>
         </div>
     );
