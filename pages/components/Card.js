@@ -8,8 +8,8 @@ function Card(props) {
         <div className="card">
             <div className="top">
                 <Avatar img={props.img} />
-                <h2 className="name" >
-                    <Link href={props.link}>
+                <h2 className="name">
+                    <Link className="name" href={props.link}>
                         {props.name}
                     </Link>
                 </h2>

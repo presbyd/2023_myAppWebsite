@@ -1,6 +1,8 @@
 import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
+import NavBurg from "./NavBurg";
+
 
 function createCard(contact) {
     return (
@@ -18,6 +20,7 @@ function createCard(contact) {
 function App() {
     return (
         <div>
+            <NavBurg />
             <h1 className="heading">My Publications</h1>
             {contacts.map(createCard)}
         </div>
