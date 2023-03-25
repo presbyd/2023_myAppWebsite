@@ -4,7 +4,7 @@ import Image from "next/image";
 
 function Avatar(props) {
     return (<a href={props.link}>
-        <img className="circle-img" src={props.img} alt="avatar_img" />
+        <img className="cardImg circle-img" src={props.img} alt="avatar_img" />
     </a>);
 }
 

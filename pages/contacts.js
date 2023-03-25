@@ -2,6 +2,7 @@ const contacts = [
     {
         id: 1,
         name: "Biometrics from a wearable device reveal temporary effects of COVID-19 vaccines on cardiovascular, respiratory, and sleep physiology",
+        year: 2022,
         imgURL: "/images/vac.jpg",
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "First author",
@@ -10,6 +11,7 @@ const contacts = [
     {
         id: 2,
         name: "Biometrics from a wearable device reveal temporary effects of COVID-19 vaccines on cardiovascular, respiratory, and sleep physiology",
+        year: 2021,
         imgURL: "/images/vac.jpg",
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "",
@@ -18,6 +20,7 @@ const contacts = [
     {
         id: 3,
         name: "Biometrics from a wearable device reveal temporary effects of COVID-19 vaccines on cardiovascular, respiratory, and sleep physiology",
+        year: 2025,
         imgURL: "/images/vac.jpg",
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "First",

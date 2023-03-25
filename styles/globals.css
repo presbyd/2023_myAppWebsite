@@ -12,17 +12,19 @@ body {
 .heading {
   text-align: center;
   font-size: 2em;
-  color: #eeeeee;
-  margin: 20px 0 30px;
+  color: #303030;
+  margin: 10px 0 30px;
 }
 
-.card {
+.card2 {
   border-radius: 25px;
   position: relative;
   padding: 25px 15px;
-  background-color: #7b7b7b;
-  margin: 50px 0;
-  height: 200px;
+  background-color: #fff;
+  margin: 10px auto;
+  height: 340px;
+  width: 400px;
+  /* margin-left: 20px; */
   box-shadow: 1px 1px 15px 1px rgb(50, 50, 50);
   text-align: left;
 }
@@ -31,7 +33,7 @@ body {
   border-radius: 25px 25px 0 0;
   height: 130px;
   width: 100%;
-  background-color: #646464;
+  background-color: #7a7a7a;
   position: absolute;
   top: 0;
   left: 0;
@@ -46,13 +48,14 @@ body {
   margin: 0.5% 0.5% 0% 1%;
 }
 
-.card img {
+.cardImg {
   margin: 4% 0% 0% 4%;
+  /* padding: 14% 0% 0% 4%; */
 }
 
 .circle-img {
-  border-radius: 15px;
-  border: 1.5px solid #fff;
+  border-radius: 25px;
+  border: 1.5px solid rgb(12, 12, 12);
   width: 100px;
   height: 100px;
   transform-origin: 0 0;
@@ -69,5 +72,13 @@ body {
 
 .info {
   margin: 1% 0;
-  color: #ffffff;
+  color: #161616;
+}
+
+.col-spacing {
+  margin: 40% 40% 40% 40%;
+}
+
+.h2-year {
+  padding-top: 5%;
 }
