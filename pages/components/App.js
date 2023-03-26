@@ -26,6 +26,13 @@ function App() {
         <div>
             <NavBurg />
             <h1 className="heading">My Publications</h1>
+
+            <h2 className="h2-year"> 2023 </h2>
+            <hr></hr>
+            <div className="d-flex flex-wrap">
+                {contacts.filter(obj => obj.year == 2023).map(createCard)}
+            </div>
+
             <h2 className="h2-year"> 2022 </h2>
             <hr></hr>
             <div className="d-flex flex-wrap">
