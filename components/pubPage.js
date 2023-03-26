@@ -2,7 +2,7 @@ import React from "react";
 import Card2 from "./Card2";
 import contacts from "./contacts";
 import NavBurg from "./NavBurg";
-import Footer from './Footer';
+import Footer from "./Footer";
 
 
 
