@@ -94,30 +94,30 @@ body {
 }
 
 .stats-img {
-  width: 15%;
+  width: 20%;
   float: left;
   margin-right: 15px;
 }
 
 .self-image {
-  width: 35%;
+  width: 20%;
   border-radius: 25%;
 }
 
 .coding-img {
-  width: 15%;
+  width: 20%;
   float: left;
   margin-right: 15px;
 }
 
 .writing-img {
-  width: 15%;
+  width: 20%;
   float: right;
   margin-left: 15px;
 }
 
 .topCont {
-  background-color: rgba(166, 227, 211, 0.1);
+  background-color: white;
   position: relative;
   padding-top: 15px;
   color: black;
