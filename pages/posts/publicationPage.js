@@ -1,8 +1,8 @@
-import App from "../components/App";
+import PubPage from "../../components/pubPage";
 
 
 export default function publicationPage() {
     return (
-        <App />
+        <PubPage />
     );
 }
