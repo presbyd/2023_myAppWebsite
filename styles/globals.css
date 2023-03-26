@@ -45,11 +45,11 @@ body {
   color: #fff;
   display: flex;
   flex: 1;
-  margin: 0.5% 0.5% 0% 1%;
+  margin: 2% 0.5% 0% 1%;
 }
 
 .cardImg {
-  margin: 4% 0% 0% 4%;
+  margin: 9% 0% 0% 4%;
   /* padding: 14% 0% 0% 4%; */
 }
 
@@ -85,4 +85,45 @@ body {
 
 .Footer {
   text-align: "center";
+}
+
+.skill-row {
+  width: 75%;
+  margin: 50px auto 60px auto;
+  text-align: left;
+}
+
+.stats-img {
+  width: 15%;
+  float: left;
+  margin-right: 15px;
+}
+
+.self-image {
+  width: 35%;
+  border-radius: 25%;
+}
+
+.coding-img {
+  width: 15%;
+  float: left;
+  margin-right: 15px;
+}
+
+.writing-img {
+  width: 15%;
+  float: right;
+  margin-left: 15px;
+}
+
+.topCont {
+  background-color: rgba(166, 227, 211, 0.1);
+  position: relative;
+  padding-top: 15px;
+  color: black;
+}
+
+.middle-container {
+  margin: 0px 0px 100px 0px;
+  background-color: #fff;
 }
