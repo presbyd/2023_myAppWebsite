@@ -8,7 +8,7 @@ export default function IndexBody() {
                     <img className="self-image" src="/images/profile.jpg" alt="" />
                 </div>
                 <h2>I'm Dave</h2>
-                <p>A physiologist, statitician, and generally curious individual</p>
+                {/* <p>A physiologist, statitician, and generally curious individual</p> */}
             </div>
             <div className="middle-container">
 
