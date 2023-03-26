@@ -1,9 +1,9 @@
 import React from "react";
 import Card2 from "./Card2";
-import contacts from "../contacts";
+import contacts from "./contacts";
 import NavBurg from "./NavBurg";
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import Footer from './Footer';
+
 
 
 function createCard(contact) {
@@ -23,7 +23,7 @@ function createCard(contact) {
 
 function App() {
     return (
-        <div>
+        <>
             <NavBurg />
             <h1 className="heading">My Publications</h1>
 
@@ -69,8 +69,8 @@ function App() {
                 {contacts.filter(obj => obj.year == 2017).map(createCard)}
             </div>
 
-
-        </div >
+            <Footer />
+        </>
     )
 }
 
