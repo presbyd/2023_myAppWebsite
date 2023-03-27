@@ -24,7 +24,7 @@ const contacts = [
         imgURL: "/images/scell_n3pufa.jpeg",
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "Middle Author",
-        descr: "Characterized the adipocyte-specific response to high omega-3 fatty acid intake during early life using metabolomics, proteomics, and single cell RNA-sequencing. Found candidate transcription factors that may establish cellular changes that confer life-long benefits of early life omega-3 intake."
+        descr: "Characterized the adipocyte-specific response to high omega-3 fatty acid intake during early life using metabolomics, proteomics, and single cell RNA-sequencing. Found candidate transcription factors that may establish early-life cellular changes that confer life-long benefits of early life omega-3 intake."
     }
 ];
 

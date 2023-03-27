@@ -27,6 +27,7 @@ body {
   /* margin-left: 20px; */
   box-shadow: 1px 1px 15px 1px rgb(50, 50, 50);
   text-align: left;
+  overflow: hidden;
 }
 
 .top {
