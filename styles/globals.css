@@ -93,11 +93,7 @@ body {
   text-align: left;
 }
 
-.stats-img {
-  width: 20%;
-  float: left;
-  margin-right: 15px;
-}
+
 
 .self-image {
   width: 20%;
@@ -105,15 +101,21 @@ body {
 }
 
 .coding-img {
-  width: 20%;
+  width: 13%;
   float: left;
   margin-right: 15px;
 }
 
 .writing-img {
-  width: 20%;
-  float: right;
+  width: 13%;
+  float: left;
   margin-left: 15px;
+}
+
+.stats-img {
+  width: 13%;
+  float: left;
+  margin-right: 15px;
 }
 
 .topCont {
