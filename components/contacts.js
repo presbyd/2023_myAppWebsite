@@ -25,7 +25,89 @@ const contacts = [
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "Middle Author",
         descr: "Characterized the adipocyte-specific response to high omega-3 fatty acid intake during early life using metabolomics, proteomics, and single cell RNA-sequencing. Found candidate transcription factors that may establish early-life cellular changes that confer life-long benefits of early life omega-3 intake."
+    },
+    {
+        id: 4,
+        name: "Diverse signaling by TGFβ isoforms in response to focal injury is associated with either retinal regeneration or reactive gliosis",
+        year: 2021,
+        imgURL: "/images/divTGFB.jpg",
+        link: "https://link.springer.com/article/10.1007/s10571-020-00830-5",
+        aut: "Middle Author",
+        descr: "Mammals fail to recover eyesight after injury to the eye, whereas fish possess the ability to restore their eyesight after serious injury to the eye. These species-specific differences are thought to occur within Müller cells; therefore, we used flow cytometry and transcriptomics to determine the transcriptional differences between retinal regeneration and reactive gliosis. We find that TGFβ3 is a candidate driver of these specific difference, which provides a potentially novel therapeutic target for different eye diseases."
+    },
+    {
+        id: 5,
+        name: "Sex differences in the effect of diet, obesity, and exercise on bone quality and fracture toughness",
+        year: 2021,
+        imgURL: "/images/boneSexDif.jpg",
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S8756328221000028",
+        aut: "Middle Author",
+        descr: "Exercise is known to benefit bone health. In this investigation, we assess if exercise continues to confer benefits to bone while on a high-fat diet and if sex influences the response to exercise or diet."
+    },
+    {
+        id: 6,
+        name: "Compensatory eating behaviors in male and female rats in response to exercise training",
+        year: 2020,
+        imgURL: "/images/sexDiffEx.gif",
+        link: "https://journals.physiology.org/doi/full/10.1152/ajpregu.00259.2019",
+        aut: "Middle Author",
+        descr: "Exercise may induce weight loss in males but often fails to reduce body weight in females. We explored differences in food intake and expression of inflammatory markers in the brain between males and females throughout exercise training. We find that males reduce their body weight and food intake with exercise but females compensate for the energy expended by eating more."
+    },
+    {
+        id: 7,
+        name: "Impact of exercise and activity on weight regain and musculoskeletal health postOVX",
+        year: 2019,
+        imgURL: "/images/weightPostOVX.jpg",
+        link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7194137/",
+        aut: "Middle Author",
+        descr: "Found that exercise may not prevent weight gain that occurs with menopause."
+    },
+    {
+        id: 8,
+        name: "Regular exercise potentiates energetically expensive hepatic de novo lipogenesis during early weight regain",
+        year: 2019,
+        imgURL: "/images/exerciseDNL.jpg",
+        link: "",
+        aut: "First Author",
+        descr: "Found that exercise potentiates hepatic de novo lipogensis during overfeeding. This may explain the increased thermic effect of food observed with exercise."
     }
+    // {
+    //     id: 9,
+    //     name: "",
+    //     year: 2019,
+    //     imgURL: "/images/.jpg",
+    //     link: "",
+    //     aut: "",
+    //     descr: ""
+    // },
+    // {
+    //     id: 10,
+    //     name: "",
+    //     year: 2019,
+    //     imgURL: "/images/.jpg",
+    //     link: "",
+    //     aut: "",
+    //     descr: ""
+    // },
+    // {
+    //     id: 11,
+    //     name: "",
+    //     year: 2019,
+    //     imgURL: "/images/.jpg",
+    //     link: "",
+    //     aut: "",
+    //     descr: ""
+    // }
 ];
 
 export default contacts;
+
+// {
+//     id: 4,
+//         name: "",
+//             year: ,
+//     imgURL: "/images/.jpg",
+//         link: "",
+//             aut: "",
+//                 descr: ""
+// }
