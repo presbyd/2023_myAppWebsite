@@ -27,7 +27,8 @@ body {
   /* margin-left: 20px; */
   box-shadow: 1px 1px 15px 1px rgb(50, 50, 50);
   text-align: left;
-  overflow: hidden;
+  overflow-y: scroll;
+  /* overflow: hidden; */
 }
 
 .top {
@@ -47,6 +48,7 @@ body {
   display: flex;
   flex: 1;
   margin: 2% 0.5% 0% 1%;
+  overflow-y: scroll;
 }
 
 .cardImg {
