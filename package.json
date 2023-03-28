@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.11",
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.4",
     "next": "latest",
