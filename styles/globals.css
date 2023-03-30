@@ -56,6 +56,11 @@ body {
   /* padding: 14% 0% 0% 4%; */
 }
 
+.scrolling-div {
+  height: 500px;
+  overflow-y: scroll;
+}
+
 .circle-img {
   border-radius: 25px;
   border: 1.5px solid rgb(12, 12, 12);
@@ -92,10 +97,14 @@ body {
 
 .skill-row {
   width: 75%;
-  margin: 50px auto 60px auto;
+  margin: 20px auto 0px auto;
   text-align: left;
 }
 
+.hr-space {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 
 
 .self-image {

@@ -11,10 +11,23 @@ export default function IndexBody() {
                 {/* <p>A physiologist, statitician, and generally curious individual</p> */}
             </div>
             <div className="middle-container">
+                <hr className="hr-space"></hr>
+                <h2>A little about me</h2>
+                <div className="skill-row">
+                    <p align="justify">Born and raised in New Jersey, I grew up spending much of my childhood at the beach and playing a lot of sports. Stayed in NJ for college at Rutgers, where I played division 1 football and studied kinesiology and computer science. After acheiving my bachelors, I moved to Denver to work on my Ph.D. in integrative physiology at the University of Colorado. Upon completing my Ph.D., I became a post-doctoral fellow at Harvard Medical School, where I used state-of-the-art techniques in bioinformatics and molecular biology to determine the transducers of physical activity. I currently reside in Boston with my better half and work as a research scientist in the Data Science department for a tech company called WHOOP.</p>
+                </div>
+                {/* <img className="" src="/images/barchart.gif" alt="" />
+                <img className="" src="/images/.gif" alt="" />
+                <img className="" src="/images/.gif" alt="" /> */}
+
+
+
+            </div>
+            <div className="middle-container">
 
                 <hr></hr>
                 <div class="skills">
-                    <h2>General interests</h2>
+                    <h2>General interests and hobbies</h2>
                     <div className="skill-row">
                         <img className="stats-img" src="/images/dna.gif" alt="" />
                         <h3>Physiology</h3>
