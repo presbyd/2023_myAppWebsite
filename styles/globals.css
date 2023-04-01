@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   font-family: sans-serif;
@@ -110,6 +114,7 @@ body {
 .self-image {
   width: 20%;
   border-radius: 25%;
+  margin: auto;
 }
 
 .coding-img {
@@ -135,6 +140,7 @@ body {
   position: relative;
   padding-top: 15px;
   color: black;
+  text-align: center;
 }
 
 .middle-container {
