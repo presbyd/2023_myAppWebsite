@@ -1,3 +1,5 @@
+import EmblaCarousel from './Carousel'
+
 export default function IndexBody() {
     return (
         <>
@@ -19,12 +21,20 @@ export default function IndexBody() {
                 {/* <img className="" src="/images/barchart.gif" alt="" />
                 <img className="" src="/images/.gif" alt="" />
                 <img className="" src="/images/.gif" alt="" /> */}
-
-
-
             </div>
-            <div className="middle-container">
+            <hr></hr>
 
+            {/* <div className="content">
+                <EmblaCarousel>
+                    <div />
+                    <div />
+                    <div />
+                    <div />
+                    <div />
+                </EmblaCarousel>
+            </div> */}
+
+            {/* <div className="middle-container">
                 <hr></hr>
                 <div class="skills">
                     <h2>General interests and hobbies</h2>
@@ -32,23 +42,19 @@ export default function IndexBody() {
                         <img className="stats-img" src="/images/dna.gif" alt="" />
                         <h3>Physiology</h3>
                         <p align="justify">I have a strong background in discovering novel aspects to physiology. My Ph.D. work uncovered a novel role for skeletal muscle and liver in regulating energy expenditure after weight loss and found that activating brown fat with cold exposure fails to beneficially impact energy expenditure during weight loss. As a post-doctoral fellow, I helped uncover the mechanisms behind acute and chronic exercise that confer the many benefits to exercise. In my industrial role at Whoop, I was the first to reveal the impact that COVID-19 vaccines had on the heart usign wearables, an extremely important finding as many government regulators expressed concern over the possible negative side-effects to new forms of vaccination.</p>
-                        {/* <p align="justify">I'm fascinated by how organisms constantly adapt to their environments. Each second, our bodies automatically and/or conciously react to the thousands of different stimulai that we are constantly exposed to. In particular, I am interested in how organisms adapt to specific stimulus in order to build a tolerance for potential future exposures, like how exercising induces adaptations that enable you to better tolerate future exercise. My PhD work investigated the molecular changes that occur with weight loss that end up promoting weight regain.</p> */}
                     </div>
                     <div className="skill-row">
                         <img className="writing-img" src="/images/barchart.gif" alt="" />
                         <h3>Machine Learning and Statistics</h3>
                         <p align="justify">In my pursuit to understand physiology, I have mastered and developed novel techniques in statistics and machine learning. During my Ph.D., I worked in the bioinformatics department at University of Colorado and developed a pipeline for transcriptome analysis, including developing a new method for performing pathway analyses to determine the networks of genes that are co-regulated by upstream factors. In my post-doctoral research, I helped leverage new ways to analyze multi-omics data to help decipher the mechanisms that drive benefits to exercise. Currently, I work in the field of wearable technologies and use state-of-the-art methods in machine learning to uncover novel physiology.</p>
-
-                        {/* <p align="justify">I enjoy analyzing large data sets to derive conclusions. In my lifetime, our ability to measure things en masse has improved vastly and so have the algorithms that are required to find the patterns in the data. I am particularly interested in the integration of multi-omics data and how these data can be leveraged to predict and find the cause of diseases.</p> */}
                     </div>
                     <div className="skill-row">
                         <img className="coding-img" src="/images/coding.gif" alt="" />
                         <h3 className="coding-h3">Programming</h3>
                         <p align="justify">Programming, outside of statistical programming, is more of a passion than profession for me. I enjoy the puzzle of figuring out how to piece together different coding languages and theories of computer science to solve digital problems. It’s part of the reason why I developed this website! </p>
-                        {/* <p className="coding-p" align="justify">I enjoy programming for generating data pipelines and web/app development. </p> */}
                     </div>
                 </div>
-            </div>
+            </div> */}
         </>
     );
 }

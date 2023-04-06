@@ -10,6 +10,8 @@
     "bootstrap": "^5.2.3",
     "chart.js": "^2.9.4",
     "d3": "^7.8.3",
+    "embla-carousel-react": "^7.1.0",
+    "embla-carousel-wheel-gestures": "^3.0.0",
     "jquery": "^3.6.4",
     "next": "latest",
     "popper.js": "^1.16.1",
@@ -17,7 +19,9 @@
     "react-bootstrap": "^2.7.2",
     "react-burger-menu": "^3.0.9",
     "react-dom": "18.2.0",
-    "react-gtm-module": "^2.0.11"
+    "react-gtm-module": "^2.0.11",
+    "react-slick": "^0.29.0",
+    "swiper": "^9.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
