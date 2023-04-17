@@ -6,7 +6,7 @@ const contacts = [
         imgURL: "/images/vac.jpg",
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "First author",
-        descr: "Characterized the physiological response to COVID vaccination. Found that many cardiovascular parameters deviated from baseline levels. For example, many individuals experienced 20% increases in resting heart rate on the night following their vaccination."
+        descr: "Characterized the physiological response to COVID vaccination and found that vaccinates acutely impact cardiovascular physiology for ~1 night."
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const contacts = [
         imgURL: "/images/lpl.jpg",
         link: "https://diabetesjournals.org/diabetes/article/70/4/867/39369/Lipoprotein-Lipase-Overexpression-in-Skeletal",
         aut: "First Author",
-        descr: "Characterized muscle-specific transcriptomic response to weight loss. Determined that skeletal muscle lipoprotein lipase expression plays a critical role in regulating energy expenditure during weight regain."
+        descr: "Characterized muscle-specific transcriptomic response to weight loss and found that skeletal muscle lipoprotein lipase expression plays a critical role in regulating energy expenditure during weight regain."
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ const contacts = [
         imgURL: "/images/scell_n3pufa.jpeg",
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "Middle Author",
-        descr: "Characterized the adipocyte-specific response to high omega-3 fatty acid intake during early life using metabolomics, proteomics, and single cell RNA-sequencing. Found candidate transcription factors that may establish early-life cellular changes that confer life-long benefits of early life omega-3 intake."
+        descr: "Characterized the adipocyte-specific response to high omega-3 fatty acid intake during early life using metabolomics, proteomics, and single cell RNA-sequencing and found candidate transcription factors that may establish early-life cellular changes that confer life-long benefits of early life omega-3 intake."
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ const contacts = [
         imgURL: "/images/divTGFB.jpg",
         link: "https://link.springer.com/article/10.1007/s10571-020-00830-5",
         aut: "Middle Author",
-        descr: "Mammals fail to recover eyesight after injury to the eye, whereas fish possess the ability to restore their eyesight after serious injury to the eye. These species-specific differences are thought to occur within Müller cells; therefore, we used flow cytometry and transcriptomics to determine the transcriptional differences between retinal regeneration and reactive gliosis. We find that TGFβ3 is a candidate driver of these specific difference, which provides a potentially novel therapeutic target for different eye diseases."
+        descr: "Determined cell- and species-specific differences in recovering from eye damage and discovered novel pathway that may be therapeutically targeted to help restore eyesight."
     },
     {
         id: 5,
@@ -42,7 +42,7 @@ const contacts = [
         imgURL: "/images/boneSexDif.jpg",
         link: "https://www.sciencedirect.com/science/article/abs/pii/S8756328221000028",
         aut: "Middle Author",
-        descr: "Exercise is known to benefit bone health. In this investigation, we assess if exercise continues to confer benefits to bone while on a high-fat diet and if sex influences the response to exercise or diet."
+        descr: "Assessed effect of diet and exercise on bone health."
     },
     {
         id: 6,
@@ -51,7 +51,7 @@ const contacts = [
         imgURL: "/images/sexDiffEx.gif",
         link: "https://journals.physiology.org/doi/full/10.1152/ajpregu.00259.2019",
         aut: "Middle Author",
-        descr: "Exercise may induce weight loss in males but often fails to reduce body weight in females. We explored differences in food intake and expression of inflammatory markers in the brain between males and females throughout exercise training. We find that males reduce their body weight and food intake with exercise but females compensate for the energy expended by eating more."
+        descr: "Characterized the sex-specific responses to exercise and found that females may have greater difficulty in losing weight with exercise due to compensatory food intake."
     },
     {
         id: 7,
@@ -69,7 +69,7 @@ const contacts = [
         imgURL: "/images/exerciseDNL.jpg",
         link: "",
         aut: "First Author",
-        descr: "Found that exercise potentiates hepatic de novo lipogensis during overfeeding. This may explain the increased thermic effect of food observed with exercise."
+        descr: "Found that exercise potentiates hepatic de novo lipogensis during overfeeding, which may explain the increased thermic effect of food observed with exercise."
     },
     {
         id: 9,

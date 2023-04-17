@@ -27,8 +27,9 @@ body {
   background-color: #fff;
   margin: 2% auto;
   /* No margin for slider */
-  height: 340px;
-  width: 400px;
+  height: 300px;
+  width: 275px;
+  font-size: .8em;
   /* margin-left: 20px; */
   box-shadow: 1px 1px 15px 1px rgb(50, 50, 50);
   text-align: left;
@@ -52,7 +53,7 @@ body {
   color: #fff;
   display: flex;
   flex: 1;
-  margin: 2% 0.5% 0% 1%;
+  margin: 2% 0.5% 0% 2%;
   overflow-y: scroll;
 }
 
