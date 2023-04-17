@@ -70,18 +70,45 @@ const contacts = [
         link: "",
         aut: "First Author",
         descr: "Found that exercise potentiates hepatic de novo lipogensis during overfeeding. This may explain the increased thermic effect of food observed with exercise."
+    },
+    {
+        id: 9,
+        name: "Compensation for cold-induced thermogenesis during weight loss maintenance and regain",
+        year: 2019,
+        imgURL: "/images/ICE_wlwr.jpg",
+        link: "https://journals.physiology.org/doi/full/10.1152/ajpendo.00543.2018",
+        aut: "First Author",
+        descr: "Found that energy expended during cold does not lead to an increase in total daily energy expenditure due to compensatory behaviors that reduce physical activity."
+    },
+    {
+        id: 10,
+        name: "Is regular exercise an effective strategy for weight loss maintenance?",
+        year: 2018,
+        imgURL: "/images/is_ex_eff.jpg",
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0031938418300337",
+        aut: "Middle Author",
+        descr: "Reviewed the efficacy of exercise to promote and maintain weight loss."
+    },
+    {
+        id: 11,
+        name: "Low Neonatal Plasma n-6/n-3 PUFA Ratios Regulate Offspring Adipogenic Potential and Condition Adult Obesity Resistance",
+        year: 2018,
+        imgURL: "/images/n3lact.jpg",
+        link: "https://diabetesjournals.org/diabetes/article/67/4/651/39964/Low-Neonatal-Plasma-n-6-n-3-PUFA-Ratios-Regulate",
+        aut: "Middle Author",
+        descr: "Found that genetically altering lactating mothers to produce higher levels of n-3 fatty acids confers benefits to the offspring that last a lifetime."
+    },
+    {
+        id: 12,
+        name: "Prior weight loss exacerbates the biological drive to gain weight after the loss of ovarian function",
+        year: 2017,
+        imgURL: "/images/menopause_wlwr.jpg",
+        link: "https://physoc.onlinelibrary.wiley.com/doi/full/10.14814/phy2.13272",
+        aut: "Middle Author",
+        descr: "Weight loss before menopause may lead to accelerated weight gain during menopause."
     }
     // {
-    //     id: 9,
-    //     name: "",
-    //     year: 2019,
-    //     imgURL: "/images/.jpg",
-    //     link: "",
-    //     aut: "",
-    //     descr: ""
-    // },
-    // {
-    //     id: 10,
+    //     id: 11,
     //     name: "",
     //     year: 2019,
     //     imgURL: "/images/.jpg",
