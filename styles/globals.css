@@ -11,30 +11,38 @@ body {
   /* min-width: 600px; */
   background-color: #323232;
   text-align: center;
+  /* overflow-y: hidden; */
 }
 
 .heading {
   text-align: center;
-  font-size: 2em;
+  font-family: cursive;
+  font-size: 3em;
   color: #303030;
   margin: 10px 0 30px;
 }
+
 
 .card2 {
   border-radius: 25px;
   position: relative;
   padding: 25px 15px;
   background-color: #fff;
-  margin: 2% auto;
+  margin: 1% auto;
   /* No margin for slider */
-  height: 300px;  /* was 300px */
-  width: 275px; /* was 275px */
+  height: 260px;  /* was 300px */
+  width: 450px; /* was 275px */
   font-size: .8em;
   /* margin-left: 20px; */
   box-shadow: 1px 1px 15px 1px rgb(50, 50, 50);
   text-align: left;
-  /* overflow-y: scroll; */
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
+  overflow-y: auto;
+}
+
+/* Make scroll bar invisible */
+.card2::-webkit-scrollbar {
+  width: 0px;
 }
 
 .top {
@@ -46,6 +54,7 @@ body {
   top: 0;
   left: 0;
   display: flex;
+  /* overflow-y: auto; */
 }
 
 .name {
@@ -54,7 +63,12 @@ body {
   display: flex;
   flex: 1;
   margin: 2% 0.5% 0% 2%;
-  overflow-y: hidden;
+  overflow-y: auto;
+}
+
+.bottom {
+  margin-top: 110px;
+  overflow: auto;
 }
 
 .cardImg {
@@ -64,7 +78,7 @@ body {
 
 .scrolling-div {
   height: 500px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .circle-img {
@@ -78,10 +92,6 @@ body {
 
 .circle-img:hover {
   transform: scale(2.5);
-}
-
-.bottom {
-  margin-top: 110px;
 }
 
 .info {
