@@ -1,5 +1,59 @@
 const contacts = [
     {
+        id: 18,
+        name: "Phenotypic and Genetic Characteristics of Retinal Vascular Parameters and their Association with Diseases",
+        year: 2023,
+        imgURL: "/images/retina_multrait.png",
+        link: "https://www.medrxiv.org/content/10.1101/2023.07.07.23292368v1",
+        aut: "Middle author",
+        descr: "Developed state-of-the-art methods to extract explainable features from retinal fundus images. Further assessed associations of these features with disease progression and genetic heritability."
+    },   
+    {
+        id: 17,
+        name: "Baseline Sleep Characteristics in NCAA Division I Collegiate Athletes",
+        year: 2024,
+        imgURL: "/images/ucla.png",
+        link: "https://journals.lww.com/cjsportsmed/abstract/9900/baseline_sleep_characteristics_in_ncaa_division_i.171.aspx",
+        aut: "Middle author",
+        descr: "Characterised the sleep patterns of Division 1 athletes."
+    },   
+    {
+        id: 16,
+        name: "Wearable-derived maternal heart rate variability as a novel digital biomarker of preterm birth",
+        year: 2024,
+        imgURL: "/images/term_births.png",
+        link: "",
+        aut: "Middle author",
+        descr: "Found a pattern in heart rate variability throughout pregnancy that predicted the time until birth."
+    },   
+    {
+        id: 15,
+        name: "Connection Between Sleep and Psychological Well-Being in U.S. Army Soldiers",
+        year: 2024,
+        imgURL: "/images/mil_med.png",
+        link: "https://academic.oup.com/milmed/article/189/1-2/e40/7189626#google_vignette",
+        aut: "Middle author",
+        descr: "Performed longitudinal examination of sleeping behaviors of US army soldiers stationed in Alaska and the associations of these sleep behaviors with mental health and performance."
+    },   
+    {
+        id: 14,
+        name: "Pre-sleep feeding, sleep quality, and markers of recovery in division I NCAA female soccer players",
+        year: 2023,
+        imgURL: "/images/sleep_feeding.jpeg",
+        link: "https://www.tandfonline.com/doi/full/10.1080/15502783.2023.2236055",
+        aut: "Middle author",
+        descr: "Characterised feeding patterns in Division 1 soccer players and how these eating patterns may impact sleep."
+    },   
+    {
+        id: 13,
+        name: "Wearable derived cardiovascular responses to stressors in free-living conditions",
+        year: 2023,
+        imgURL: "/images/circadian_stress.png",
+        link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285332",
+        aut: "First author",
+        descr: "Developed and validated methods to assess stress levels in free-living individuals wearing a wearable device."
+    },   
+    {
         id: 1,
         name: "Biometrics from a wearable device reveal temporary effects of COVID-19 vaccines on cardiovascular, respiratory, and sleep physiology",
         year: 2022,

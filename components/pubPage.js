@@ -25,13 +25,19 @@ function PubPage() {
     return (
         <>
             <NavBurg />
-            <h1 className="heading">My Publications</h1>
+            <h1 className="heading">Publications</h1>
 
-            {/* <h2 className="h2-year"> 2023 </h2>
             <hr></hr>
+            <h2 className="h2-year"> 2024 </h2>
+            <div className="d-flex flex-wrap">
+                {contacts.filter(obj => obj.year == 2024).map(createCard)}
+            </div>
+
+            <hr></hr>
+            <h2 className="h2-year"> 2023 </h2>
             <div className="d-flex flex-wrap">
                 {contacts.filter(obj => obj.year == 2023).map(createCard)}
-            </div> */}
+            </div>
 
             <hr></hr>
             <h2 className="h2-year"> 2022 </h2>
