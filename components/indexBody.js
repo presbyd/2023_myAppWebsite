@@ -18,10 +18,11 @@ export default function IndexBody() {
                 <div className="skill-row">
                     <p align="justify">
                         Born and raised in New Jersey, I grew up spending much of my childhood at the beach and playing a lot of sports. 
-                        Stayed in NJ for college at Rutgers, where I played division 1 football and studied kinesiology and computer science. 
-                        After acheiving my bachelors, I moved to Denver to work on my Ph.D. in integrative physiology at the University of Colorado. 
-                        Upon completing my Ph.D., I became a post-doctoral fellow at Harvard Medical School, where I used state-of-the-art techniques in bioinformatics and molecular biology to determine the transducers of physical activity. 
-                        I currently reside in Boston with my better half and work as a research scientist in the Data Science department for a tech company called WHOOP.
+                        I attended Rutgers University, where I played division 1 football and studied kinesiology and computer science. 
+                        After acheiving my bachelors, I moved to Denver to work on my Ph.D. in molecular biology at the University of Colorado. 
+                        Upon completing my Ph.D., I became a post-doctoral fellow at Harvard Medical School, where I used state-of-the-art techniques in bioinformatics and molecular biology to determine transducers of physical activity. 
+                        I stayed in Boston when I transitioned into industry as part of the data science team at WHOOP as a Senior Research Scientist. 
+                        Currently, I reside in Switzerland, where I spend a lot of my time working on an international data science platform and consulting business I founded (🇺🇸 = Vast AI LLC; 🇨🇭 = Presby Consulting) and conduct research into computer vision as a senior data scientist at the Swiss Institute of Bioinformatics.
                     </p>
                 </div>
                 {/* <img className="" src="/images/barchart.gif" alt="" />
