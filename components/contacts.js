@@ -7,7 +7,7 @@ const contacts = [
         link: "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00420.2021",
         aut: "First author",
         descr: "Characterized the physiological response to COVID vaccination and found that vaccinates acutely impact cardiovascular physiology for ~1 night."
-    },
+    },    
     {
         id: 2,
         name: "Lipoprotein Lipase Overexpression in Skeletal Muscle Attenuates Weight Regain by Potentiating Energy Expenditure",
