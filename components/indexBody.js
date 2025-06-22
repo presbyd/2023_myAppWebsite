@@ -25,9 +25,9 @@ export default function IndexBody() {
                         Currently, I reside in Switzerland, where I spend a lot of my time working on an international data science platform and consulting business I founded (🇺🇸 = Vast AI LLC; 🇨🇭 = Presby Consulting) and conduct research into computer vision as a senior data scientist at the Swiss Institute of Bioinformatics.
                     </p>
                 </div>
-                {/* <img className="" src="/images/barchart.gif" alt="" />
-                <img className="" src="/images/.gif" alt="" />
-                <img className="" src="/images/.gif" alt="" /> */}
+                {/* <img className="" src="/images/barchart.gif" alt="" /> */}
+                {/* <img className="" src="/images/.gif" alt="" /> */}
+                {/* <img className="" src="/images/.gif" alt="" /> */}
             </div>
             <hr></hr>
 

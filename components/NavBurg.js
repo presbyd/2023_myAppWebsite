@@ -13,6 +13,7 @@ function NavBurg() {
                     <Nav className="me-auto">
                         <Nav.Link href="/">Home</Nav.Link>
                         <Nav.Link href="/posts/publicationPage">Publications</Nav.Link>
+                        <Nav.Link href="/posts/resumePage">Resume</Nav.Link>
                         {/* <Nav.Link href="#">Curriculum Vitae</Nav.Link> */}
 
                         {/* This next section is for additional drop down functionality */}

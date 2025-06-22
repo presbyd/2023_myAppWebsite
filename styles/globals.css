@@ -142,8 +142,9 @@ body {
 }
 
 .stats-img {
-  width: 13%;
-  float: left;
+  width: 23%;
+  /* height: 2%; */
+  float: right;
   margin-right: 15px;
 }
 
@@ -296,4 +297,28 @@ body {
 .embla__dot.is-selected:after {
   background-color: #1bcacd;
   opacity: 1;
+}
+
+/* For resume */
+.res-body {
+  font-family: Arial;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+}
+.res-h1, .res-h2, .res-h3 {
+  margin-top: 0;
+}
+.res-contact-info {
+  margin-bottom: 20px;
+}
+.res-experience, .education, .skills {
+  margin-bottom: 30px;
+}
+.res-skills ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.res-skills ul li {
+  margin-bottom: 10px;
 }
